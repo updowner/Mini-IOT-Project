@@ -13,3 +13,5 @@ Second, we download the Blynk application and enter the user name and password o
 
 I used Blynk apk, its a good apliation and very easy to use and this is how its look like after we put all the Widget :
 ![photo1653747535_50](https://user-images.githubusercontent.com/29107541/170829701-805a099d-7311-4a60-90c0-b02fd424df4c.jpeg)
+
+I also connect DHT11 sensor to my circute so I can see the humidity and temperature in my room.
